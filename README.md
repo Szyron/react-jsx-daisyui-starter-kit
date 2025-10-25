@@ -103,7 +103,7 @@ export default function Example() {
 ### 📚 Official Documentation
 You can find the official documentation for:
 
-Documentation for all Laravel starter kits can be found on the [Laravel website]([https://laravel.com/docs](https://laravel.com/docs/12.x/contributions).
+Documentation for all Laravel starter kits can be found on the [Laravel website]((https://laravel.com/docs/12.x/contributions).
 Get started with daisyUI and explore its full documentation at [DaisyUI website](https://daisyui.com/docs/intro/)
 
 ---
