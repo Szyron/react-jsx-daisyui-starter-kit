@@ -1,11 +1,17 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "yazidkhaldi/react-jsx-starter-kit",
+    "name": "szyron/react-jsx-daisyui-starter-kit",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "A React + JSX + DaisyUI starter kit for Laravel with Inertia.js integration.",
     "keywords": [
         "laravel",
         "framework"
+    ],
+    "authors": [
+        {
+            "name": "Szyron",
+            "email": "szirony.dev@gmail.com"
+        }
     ],
     "license": "MIT",
     "require": {
